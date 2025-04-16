@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;)](https://git.io/typing-svg)</h3>
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;)](https://git.io/typing-svg)</div>
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
-<h3 align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cja224&layout=compact)</h3>
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cja224&layout=compact)</div>
