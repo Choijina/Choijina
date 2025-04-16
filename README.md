@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;)](https://git.io/typing-svg)
-</div>
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
