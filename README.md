@@ -22,6 +22,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;" alt="Typing SVG" style="margin-left: 40px;" />
+  </a>
+</div>
+
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF" />&nbsp
