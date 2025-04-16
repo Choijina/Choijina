@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;" alt="Typing SVG" />
+  </a>
+</div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
