@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;)](https://git.io/typing-svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cja224&layout=compact)
