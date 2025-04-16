@@ -24,17 +24,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;" alt="Typing SVG" style="margin-left: 40px;" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;" 
-      alt="Typing SVG" 
-      style="padding-left: 20px;" 
-    />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;" alt="Typing SVG" />
   </a>
 </div>
 
