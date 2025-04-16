@@ -29,6 +29,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jina's+Github;" alt="Typing SVG" />
+  </a>
+</div>
+
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
